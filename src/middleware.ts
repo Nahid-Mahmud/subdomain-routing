@@ -12,7 +12,6 @@ export default function middleware(req: NextRequest) {
 
   // Routing logic
   const path = url.pathname;
-  console.log("sldfkjgsldfgslkdf",path);
 
   // Route requests based on the subdomain
   if (hostname === process.env.NEXT_PUBLIC_BLOG_DOMAIN) {

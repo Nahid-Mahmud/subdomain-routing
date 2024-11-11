@@ -2,7 +2,7 @@ Here’s a README.md for your project that includes instructions for setting up 
 
 ---
 
-# Project Name
+# Simgle Subdomain Routing with Next Js
 
 This project implements subdomain routing using Next.js with TypeScript. The app is designed to route different subdomains (`blog.localhost`, `forum.localhost`) to their respective paths.
 
